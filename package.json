@@ -1,10 +1,13 @@
 {
-  "name": "terminal_app",
-  "version": "1.0.0",
+  "name": "v_cli",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
    "repository": {
 		"type": "git",
 		"url": "https://github.com/NknightA/v_cli.git"
 	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	}
 }
