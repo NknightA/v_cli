@@ -1,15 +1,20 @@
 {
   "name": "@nknighta/v_cli",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "main.ts",
   "license": "MIT",
-   "repository": {
-		"type": "git",
-		"url": "https://github.com/NknightA/v_cli.git"
-	},
-	"publishConfig": {
-		"access": "restricted",
-		"registry": "https://npm.pkg.github.com/"
-	},
-	"author": "{所有者の情報}"
+  "author": "nknight amamiyar",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nknighta/v_cli.git"
+  },
+  "scripts": {
+    "test": "echo \" no code!!!!!\""
+  },
+  "devDependencies": {
+	
+  }
 }
